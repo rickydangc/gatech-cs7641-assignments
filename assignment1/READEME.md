@@ -2,8 +2,8 @@
 
 In this repository, we performed five classification algorithms (Decision Trees, 3-Layer NN, Gradient-Boosted Decision Trees (GBDT), Support Vector Machines and k-Nearest Neighbors) on two different binary classification datasets(balanced and imbalanced).
 
-Dataset 1: Heart Disease Dataset - available at /data folder
-Dataset 2: SynPUF Dataset  - available at /data folder
+- Dataset 1: Heart Disease Dataset - available at /data folder
+- Dataset 2: SynPUF Dataset  - available at /data folder
 
 ## Get Started
 

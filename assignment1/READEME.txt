@@ -1,5 +1,7 @@
 # CS 7641 Assignment 1: Supervised Learning
 
+Link: https://github.com/rickydangc/gatech-cs7641-assignments/tree/main/assignment1
+
 In this repository, we performed five classification algorithms (Decision Trees, 3-Layer NN, Gradient-Boosted Decision Trees (GBDT), Support Vector Machines and k-Nearest Neighbors) on two different binary classification datasets(balanced and imbalanced).
 
 Dataset 1: Heart Disease Dataset - available at /data folder
