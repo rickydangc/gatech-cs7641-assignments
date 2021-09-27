@@ -18,9 +18,8 @@ There are two Jupyter Notebooks:
 - Heart Disease Predication
 - SynPUF Diabetes Predication
 
-First Option: Click 'Run All', it will run all codes in the notebook.
-
-Second Option: Run the code step by step, the notebook will print the output every step.
+1. First Option: Click 'Run All', it will run all codes in the notebook.
+2. Second Option: Run the code step by step, the notebook will print the output every step.
 
 Each Jupyter Notebook has been divided into following blocks:
 
