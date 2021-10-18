@@ -1,0 +1,12 @@
+Six
+mlrose
+mlrose_hiive
+
+pandas
+numpy
+scipy
+keras
+scikit-learn
+tensorflow
+matplotlib
+plotly
