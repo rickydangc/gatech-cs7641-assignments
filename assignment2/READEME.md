@@ -2,8 +2,10 @@
 
 In this repository, we performed four different random optimization algorithms (Randomized Hill Climbing, Simulated Annealing, Genetic Algorithm and MIMIC) in two parts. 
 
-> Part I: Three optimization algorithms have been applied on three different discrete optimization problems (Eight-Queen Problem, Max-K Color Problem and Travelling Salesperson Problem).
-> Part II: Applied three algorithms (Randomized Hill Climbing, Simulated Annealing and Genetic Algorithm) on Neural Networks to optimize weights of the NN.
+Part I: Three optimization algorithms have been applied on three different discrete optimization problems (Eight-Queen Problem, Max-K Color Problem and Travelling Salesperson Problem).
+
+
+Part II: Applied three algorithms (Randomized Hill Climbing, Simulated Annealing and Genetic Algorithm) on Neural Networks to optimize weights of the NN.
 
 
 - All these algorithms are implementation with mlrose library in Python3.
