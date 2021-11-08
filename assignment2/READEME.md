@@ -14,8 +14,9 @@ Part II: Applied three algorithms (Randomized Hill Climbing, Simulated Annealing
 
 ## Get Started
 
-- python 3.6
-- pip install requirements.txt
+- Python 3.6
+- Pip install requirements.txt
+- Open Anacona Jupyter Notebook
 
 
 ## Running the Jupyter Notebook
