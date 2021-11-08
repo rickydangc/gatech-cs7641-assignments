@@ -1,10 +1,9 @@
 # CS 7641 Assignment 3: Unsupervised Learning
 
-In this repository, we performed two most common clustering algorithms K-Means and Expectation Maximization; four different dimensionality reduction algorithms including Principal Component Analysis (PCA), Independent Component Analysis (ICA), Random Projection (RP) and Kernel Principal Component Analysis (KPCA). 
+In this repository, we performed two most common clustering algorithms K-Means and Expectation Maximization; four different dimensionality reduction algorithms including PrincipalComponent Analysis (PCA), Independent Component Analysis (ICA), Random Projection (RP)and Kernel Principal Component Analysis (KPCA). 
 
 - All of these algorithms are implemented with scikit-learn and scipy library in Python3.
 - Dataset: Heart Disease Dataset - available at /data folder.
-
 
 ## Get Started
 
