@@ -4,5 +4,4 @@ scipy
 keras
 scikit-learn
 matplotlib
-seaborn
-
+seaborns
