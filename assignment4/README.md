@@ -7,8 +7,7 @@ Output CSVs and images are written to `./output` and `./output/images` respectiv
 
 If these folders do not exist the experiments module will attempt to create them.
 
-## Get Start:
----------
+## Get Started
 
 The run_experiment script can be use to generate plots via:
 
